@@ -1,0 +1,5 @@
+Polynomial Reductions Java
+
+• Built a CLI program that checks whether a given graph could be reduced to the SAT-problem.
+• Implemented the required conditions in order to determine a complete subgraph of a given number of nodes
+(n-Clique Problem), compute the maximum Vertex Cover and solve the k-Coloring Problem.
